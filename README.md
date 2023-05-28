@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋🏻, I'm Yasin</h1>
 <h3 align="center">1st Year Computer Engineering Student at RTEU. </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enish0&label=Profile%20views&color=0e75b6&style=flat" alt="enish0" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif">
 
 - 🎯 Quite related to **Space systems**
 
 - 🌱 I’m currently learning **Python**
-
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -16,6 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enish0&show_icons=true&locale=en&layout=compact" alt="enish0" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enish0&show_icons=true&locale=en" alt="enish0" /></p>
 
+,
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=enish0&show_icons=true&locale=en&layout=compact" alt="enish0" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=enish0&show_icons=true&locale=en" alt="enish0" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enish0&" alt="enish0" /></p>
