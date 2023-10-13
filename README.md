@@ -2,9 +2,6 @@
 <h3 align="center">1st Year Computer Engineering Student at RTEU. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enish0&label=Profile%20views&color=0e75b6&style=flat" alt="enish0" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif">
-
-- 🎯 Quite related to **Space systems**
 
 - 🌱 I’m currently learning **Python**
 
